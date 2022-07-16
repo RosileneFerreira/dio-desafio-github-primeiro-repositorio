@@ -1,0 +1,19 @@
+Módulo I - Princípios de Desenvolvimento de Software
+
+Introdução à Programação e Pensamento Computacional
+
+- Pensamento computacional;
+- Introdução à lógica de programação;
+- Fundamentos de algoritmos;
+- Linguagens de programação;
+- Primeiro contato com a programação.
+
+Introdução do Git e ao GitHub
+
+- Introdução ao Git;
+- Navegação via command line interface e instalação;
+- Entendendo como o Git funciona por baixo dos panos;
+- Primeiros comandos com Git;
+- Ciclo de vida dos arquivos no Git;
+- Introdução ao GitHub;
+- Resolvendo conflitos.
